@@ -59,7 +59,6 @@ A simple Java console app to browse a car catalog, search for a car, and unlock 
 Made by **Neyzox** 🚗
 - GitHub: [Neyzox123](https://github.com/Neyzox123)
 - Repo: [Java-Car-Shop](https://github.com/Neyzox123/Java-Car-Shop)
-- Originally exported from **CodeSnack IDE**
 
 ## License
 
